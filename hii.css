@@ -1,0 +1,11 @@
+@CHARSET "ISO-8859-1";
+body {
+    background:url("C:\Users\Admin\Desktop\web4\scenary1.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
